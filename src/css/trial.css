@@ -1,0 +1,37 @@
+.container {
+    padding: 20px;
+}
+
+.trial-container {
+    width: 750px;
+    height: 250px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    overflow-x: scroll;
+}
+
+.trial {
+    max-height: 250px;
+    height: 250px;
+    width: 250px;
+    border: 0.5px solid black;
+    float: left;
+    background-color: rgb(252, 246, 246);
+    background-image: repeating-linear-gradient(45deg, transparent, transparent 5px, rgba(255, 255, 255, .5) 5px, rgba(248, 244, 244, .5) 10px);
+    font-size: 14px;
+    font-weight: bold;
+    word-wrap: break-word;
+}
+
+.trial span {
+    padding: 5px;
+}
+
+.caption div {
+    padding-top: 30px;
+    font-size: 12px;
+}
+
+.caption {
+    min-width: 1500px;
+}
