@@ -4,9 +4,9 @@ The goal here is to build a timeline of multiple clinical trials
 
 ## Running Locally
 
-1. Checkout git repository locally: `git clone git@github.com:rpocklin/angular-scroll-animate.git`
+1. Checkout git repository locally: `git@github.com:remcandido/timeline.git`
 1. `npm install`
-1. View `http://localhost:3000/
+1. View `http://localhost:3000/`
 
 ## Update trials 
 
